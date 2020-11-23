@@ -1,0 +1,94 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/img1.png');
+	background-size: 100% 100%;
+	height: 90vh;
+}
+/* .navbar .navbar-nav{
+	list-style: none;
+	 margin-left: 60%
+}
+.navbar .navbar-nav .nav-item{
+	display: inline;
+    width: 200px;
+    height: 40px;
+    opacity: .8;
+    line-height: 37px;
+    text-align: center;
+    font-size: 15px
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	text-decoration: none;
+    color: white;
+    width: 144px;
+    height: 40px;
+    font-family: 'Bebas Neue', cursive;
+    float: left;
+}
+.navbar .section1 .nav-link:hover{
+	border:3px 
+	solid red;
+} */
+/* start style section2 */
+.place{
+	color: white;
+    margin-left: 870px;
+    margin-top: 250px;
+    border: 3px solid white;
+    font-size: 70px;
+    margin-right: 864px;
+    font-family: 'Bebas Neue', cursive;
+}
+.para{
+	margin-left: 870px;
+    margin-top: 30px;
+    margin-right: 940px;
+    color: white;
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+    border-bottom: 3px solid white;
+}
+.section2{
+	background-color: 
+	#42363A;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin: 100px 272px 26px 272px;
+	padding-bottom: 8%
+}
+.section2 h1{
+	margin-left: 18%;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    padding-top: 3%;
+}
+
+.section2 .container .div1 .par{
+	position: absolute;
+	margin-top: -370px;
+	margin-left: 5%  
+}
+.section2 .container .div1 .par .s{
+	font-size: 53px;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+
+}
+.section2 .container .div1 .par .p{
+	font-size: 10px;
+    font-family: 'Bebas Neue', cursive;
+	color: white;
+
+}
+.section2 .container .div1 .img5{
+	position: absolute;
+	margin-left: -16%;
+    margin-top: 11%;
+}
